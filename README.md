@@ -131,3 +131,12 @@ public class HelloController {
     }
 }
 ```
+
+If you are trying to change the database configurations. Go to the Resources folder, under it click the application.configuration. There you will configure the following: 
+```
+#Database
+db.driver=com.mysql.cj.jdbc.Driver
+db.username=YOURUSERNAME //default is root
+db.password=YOURPASSWORD 
+db.url=jdbc:mysql://localhost:3306/YOURDATABASE?useSSL=false&allowPublicKeyRetrieval=true //the database name that you are trying to connect to
+```
