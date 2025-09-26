@@ -4,9 +4,9 @@ This is a template repository for making desktop application using java's framew
 ## Installation
 Install first the following to proceed to the developing stage.
 
-IDE: Intelij Community Edition for Free
+IDE: Intelij Community Edition for Free (Scroll down until you see the community version
 ```
-https://www.jetbrains.com/idea/download/?section=linux
+https://www.jetbrains.com/idea/download/
 ```
 Java21 sdk (Choose the msi installer or pick what you prefer to use)
 ```
